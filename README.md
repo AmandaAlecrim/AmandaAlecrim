@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning C#
+- 😄 Pronouns: She/her 💅
+- ⚡ Fun fact: I aways have a lot of games to play but i never play them because I'm indecisive 🤡
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
-
 -->
-- 😄 Pronouns: She/her 💅
-- ⚡ Fun fact: I aways have a lot of games to play but i never play them because I'm indecisive 🤡
 
 
 
