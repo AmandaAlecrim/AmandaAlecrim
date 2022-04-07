@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning C#
-
 <!--
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
 
 -->
-
 - 😄 Pronouns: She/her 💅
 - ⚡ Fun fact: I aways have a lot of games to play but i never play them because I'm indecisive 🤡
+
+
 
 ✨ Watch this little snake eat my contributions 🐍
 ![snake gif](https://github.com/AmandaAlecrim/AmandaAlecrim/blob/output/github-contribution-grid-snake.gif)
