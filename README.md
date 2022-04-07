@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her 💅
 - ⚡ Fun fact: I aways have a lot of games to play but i never play them because I'm indecisive 🤡
 
-<br><br>
+<br>
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" height="26px" width="26px" src="https://github.com/dhanishgajjar/vscode-icons/blob/7078081b8a334c0d69b20dabab78c526899a471d/png/default_dark.png" alt="VS Code"/>
 
-<br><br>
+<br><br><br>
 
 ### ✨ Watch this little snake eat my contributions 🐍
 ![snake gif](https://github.com/AmandaAlecrim/AmandaAlecrim/blob/output/github-contribution-grid-snake.gif)
