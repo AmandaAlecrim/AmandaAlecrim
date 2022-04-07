@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <img align="left" height="26px" width="26px" src="https://github.com/dhanishgajjar/vscode-icons/blob/7078081b8a334c0d69b20dabab78c526899a471d/png/default_dark.png" alt="VS Code"/>
 
 
-✨ Watch this little snake eat my contributions 🐍
+### ✨ Watch this little snake eat my contributions 🐍
 ![snake gif](https://github.com/AmandaAlecrim/AmandaAlecrim/blob/output/github-contribution-grid-snake.gif)
