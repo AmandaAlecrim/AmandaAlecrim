@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i really like gaming
--->
+
 
 ![snake gif](https://github.com/AmandaAlecrim/AmandaAlecrim/blob/output/github-contribution-grid-snake.gif)
+
+-->
