@@ -39,12 +39,11 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAlecrim27&layout=compact&theme=gotham)
 <br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaAlecrim27&show_icons=true&theme=gotham) </br>
-
-<!-- ### My Contributions -->
+ -->
 
 ### ✨ Watch this little snake eat my contributions 🐍
 ![snake gif](https://github.com/AmandaAlecrim/AmandaAlecrim/blob/output/github-contribution-grid-snake.gif)
