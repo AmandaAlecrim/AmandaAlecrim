@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <br><br><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shasank27&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAlecrim27&layout=compact&theme=gotham)
 <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shasank27&show_icons=true&theme=gotham) </br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmandaAlecrim27&show_icons=true&theme=gotham) </br>
 
 <!-- ### My Contributions -->
 
