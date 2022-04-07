@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ✨ Watch this little snake eat my contributions 🐍 ✨
-
 ![snake gif](https://github.com/AmandaAlecrim/AmandaAlecrim/blob/output/github-contribution-grid-snake.gif)
