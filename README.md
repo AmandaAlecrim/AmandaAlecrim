@@ -4,7 +4,7 @@
 
 You can call me Amandy, Mandy or Amendoa too ପ(๑•ᴗ•๑)ଓ
 
-<br><br>
+<br>
 
 <!--
 **AmandaAlecrim/AmandaAlecrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
