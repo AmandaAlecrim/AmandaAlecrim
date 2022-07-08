@@ -2,7 +2,7 @@
 
 ### I'm Amanda
 
-You can call me Amandy, Mandy or Amendoa too ପ(๑•ᴗ•๑)ଓ
+You can call me Amandinha, Amandy, Mandy or Amendoa too ପ(๑•ᴗ•๑)ଓ
 
 <br>
 
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Python
 - 😄 Pronouns: She/her 💅
-- ⚡ Fun fact: I aways have a lot of games to play but i never play them because I'm indecisive 🤡
+- ⚡ Fun fact: I love indie games so much that sometimes I accumulate several just to support the company and forget to play them 🤡
 
 <br>
 
