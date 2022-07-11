@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning JavaScript and Python
 - 😄 Pronouns: She/her 💅
 - ⚡ Fun fact: I love indie games so much that sometimes I accumulate several just to support the company and forget to play them 🤡
 
