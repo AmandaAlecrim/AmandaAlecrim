@@ -2,7 +2,7 @@
 
 ### I'm Amanda
 
-You can call me Amandinha, Amandy, Mandy or Amendoa too ପ(๑•ᴗ•๑)ଓ
+You can call me Amandinha, Amandy or Mandy too ପ(๑•ᴗ•๑)ଓ
 
 <br>
 
