@@ -10,7 +10,6 @@ You can call me Amandinha, Amandy or Mandy too ପ(๑•ᴗ•๑)ଓ
 **AmandaAlecrim/AmandaAlecrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 -->
 
 - 🔭 I’m currently working on Web and Mobile development
