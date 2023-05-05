@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Web and Mobile development
-- 🌱 I’m currently learning Bootstrap and Angular.
+- 🌱 I’m currently learning Typescript and Angular.
 - 😄 Pronouns: She/her 💅
 <!-- - ⚡ Fun fact: -->
 
