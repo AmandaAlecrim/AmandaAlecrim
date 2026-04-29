@@ -2,7 +2,7 @@
 
 ### I'm Amanda
 
-You can call me Amandinha, Amandy or Mandy too ପ(๑•ᴗ•๑)ଓ
+You can call me Amandinha, Amandy or Mandy too!
 
 <br>
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Web and Mobile development
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning Kubernetes.
 - 😄 Pronouns: She/her 💅
 <!-- - ⚡ Fun fact: -->
 
